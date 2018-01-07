@@ -1,0 +1,4 @@
+export const CHANGE_PAGE = 'CHANGE_PAGE'
+export const CHANGE_FORWARD = 'CHANGE_FORWARD'
+export const CHANGE_BACK = 'CHANGE_BACK'
+export const HIDE_NAVIGATOR = 'HIDE_NAVIGATOR'
